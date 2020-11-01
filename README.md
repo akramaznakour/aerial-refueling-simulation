@@ -13,7 +13,7 @@
 
 </details>
 
-## ℹ Disclaimer
+## ℹ About
 The main objectives of this project Were:  
 - To understand the process and the automation of aerial refueling of military transport aircraft 
 - To develop a  mini flight simulator  Implementing Some Electronic Flight Instrument Systems (EFIS) And Electronic Centralized Aircraft Monitoring (ECAM Features, ATC Radar, Airport  System...Etc
